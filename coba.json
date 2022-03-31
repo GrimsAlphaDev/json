@@ -1,4 +1,32 @@
-{
-    "nama" : "Haikal",
-    "umur" : 20
-}
+[
+    {
+        "nama": "Haikal",
+        "umur": 20,
+        "nrp": 20399289,
+        "lulus": false,
+        "hobi": [
+            "Gaming",
+            "Coding",
+            "Listening Music"
+        ],
+        "pembiming": {
+            "pembimbing1": "Uknwon",
+            "pembimbing2": "Still Uknwon"
+        }
+    },
+    {
+        "nama": "Haikal",
+        "umur": 20,
+        "nrp": 20399289,
+        "lulus": false,
+        "hobi": [
+            "Gaming",
+            "Coding",
+            "Listening Music"
+        ],
+        "pembiming": {
+            "pembimbing1": "Uknwon",
+            "pembimbing2": "Still Uknwon"
+        }
+    }
+]
