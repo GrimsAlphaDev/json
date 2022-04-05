@@ -9,9 +9,9 @@
             "Coding",
             "Listening Music"
         ],
-        "pembiming": {
-            "pembimbing1": "Uknwon",
-            "pembimbing2": "Still Uknwon"
+        "pembimbing": {
+            "pembimbing1": "unknown",
+            "pembimbing2": "Still unknown"
         }
     },
     {
@@ -24,9 +24,9 @@
             "Coding",
             "Listening Music"
         ],
-        "pembiming": {
-            "pembimbing1": "Uknwon",
-            "pembimbing2": "Still Uknwon"
+        "pembimbing": {
+            "pembimbing1": "unknown",
+            "pembimbing2": "Still unknown"
         }
     }
 ]
